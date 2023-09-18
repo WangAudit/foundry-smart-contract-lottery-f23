@@ -21,3 +21,6 @@ This code is to proveably create a random smart contract lottery
     1. Work on a local chain
     2. Forked Testnet
     3. Forked Mainnet
+3. Test pushing to GitHub
+    1. Initial Push
+    2. Updating README
